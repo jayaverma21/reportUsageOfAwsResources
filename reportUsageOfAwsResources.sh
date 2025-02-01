@@ -3,7 +3,7 @@
 ###########################
 # Author : Jaya Verma
 # Date : 1 feb 25
-# Task : report the usage of AWS resources
+# Task : report the usage of AWS resources like aws , ec2 , s3 and lambda
 ##################################
 
 set -x # debug mode
